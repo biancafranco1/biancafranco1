@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1>Olá! Eu sou a Bianca Franco 👋🏽 </h1>
 
-<!--
-**biancafranco1/biancafranco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍💻 Desenvolvedora Full Stack em formação <br>
+📈 Estagiária de SRE no Itaú 🧡 <br>
+☁️ 1x AWS certified<br>
+👸🏾 Mais uma mulher na tecnologia! <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block" >
+<img align="center" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Fu-dXkSWjCzkwZCiVfezmulj7OBUK74FDw&usqp=CAU">
+<img margin_left="5px" align="center" height="40" width="40" src="https://logospng.org/download/css-3/logo-css-3-2048.png">  
+<img align="center" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpEVooS4y75Pf5C0wEQcyqC5cOErNxtl5cQ&usqp=CAU">
+</div>
