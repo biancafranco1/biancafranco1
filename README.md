@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou a Bianca Franco 👋🏽 </h1>
 
-👩🏽‍💻 Desenvolvedora Full Stack em formação <br>
-📈 Estagiária de SRE no Itaú 🧡 <br>
+👩🏽‍💻 Desenvolvedora em formação <br>
+📈 Analista SRE no Itaú 🧡 <br>
 ☁️ 1x AWS certified<br>
 👸🏾 Mais uma mulher na tecnologia! <br>
 
